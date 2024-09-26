@@ -402,7 +402,7 @@ span{
         flex-direction: column;
     }
     .about-img img{
-        width: 90vw;
+        width: 80vw;
         margin-top: 4rem;
     }
     .services h2{
@@ -426,7 +426,7 @@ span{
         margin-top: 8rem;
     }
     .about-img img{
-        width: 100vw;
+        width: 90vw;
         margin-top: 4rem;
     }
 }
