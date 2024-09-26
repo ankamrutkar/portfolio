@@ -147,7 +147,8 @@ span{
     background: var(--snd-bf-color);
 }
 .about-img img{
-    width: 30vw;
+    width: 380px;
+    height:380px;
 }
 .heading{
     text-align: center;
